@@ -1,0 +1,34 @@
+@import url(reset.css);
+div.block{
+   color: red;
+}
+h1{
+   color: blueviolet;
+}
+.text{
+   color: blue;
+}
+a{
+   color: tomato;
+}
+div.info > ul {
+   color: green;
+}
+ul{
+   color: violet;
+}
+#some-id{
+   color: red;
+}
+div.info p{
+   color: aquamarine;
+}
+#link-some{
+   color: chartreuse;
+}
+.block-some ~ ul{
+   color: red;
+}
+.contacs + p{
+   color: gold;
+}
