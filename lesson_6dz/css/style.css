@@ -1,0 +1,132 @@
+@import url("https://fonts.googleapis.com/css?family=Poppins:regular,600,700&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Inter:regular,500,600,700&display=swap");
+@import url("https://fonts.googleapis.com/css?family=DM+Serif+Text:regular&display=swap");
+@import url(reset.css);
+main{
+   max-width: 715px;
+   margin: 0 auto;
+   font-family: "Inter",sans-serif;
+   font-size: 18px;
+}
+.image{
+   max-width: 715px;
+   max-height: 477px;
+   margin-bottom: 24px;
+}
+.title{
+   font-family: "Poppins", sans-serif;
+   font-weight: 600;
+   font-size: 30px;
+   line-height: 1.27;
+   color: #37393f;
+   text-transform: capitalize;
+   max-width: 715px;
+   max-height: 86px;
+   margin-bottom: 15px;
+}
+.text{
+   font-weight: 400;
+   line-height: 1.46;
+   color: #7d7d7d;
+   margin-bottom: 40px;
+}
+.title-2{
+   font-family: "Poppins", sans-serif;
+   font-weight: 600;
+   font-size: 20px;
+   line-height: 1.27;
+   color: #6b77e5;
+   margin-bottom: 15px;
+}
+.image-2{
+   max-width: 331px;
+   max-height: 262px;
+   padding-right: 29px;
+}
+.block-2{
+   display: inline-block;
+   max-width: 330px;
+   max-height: 263px;
+}
+.title-3{
+   font-family: "Poppins",sans-serif;
+   font-weight: 600;
+   font-size: 25px;
+   line-height: 1.27;
+   color: #37393f;
+   padding-bottom: 15px;
+}
+.title-4{
+   font-family: "Poppins",sans-serif;
+   font-weight: 600;
+   font-size: 20px;
+   line-height: 1.27;
+   color: #40ddb6;
+   padding-bottom: 21px;
+}
+.list{
+   color: #7d7d7d;
+   font-weight: 400;
+}
+.list-item{
+   padding-bottom: 32px;
+}
+main{
+   margin-bottom: 50px;
+}
+footer{
+   max-width: 1300px;
+   margin: 0 auto;
+   background-color: #d9d6d1;
+}
+.block-3{
+   max-width: 1208px;
+   max-height: 518px;
+}
+.title-text{
+   max-width: 558px;
+   display: inline-block;
+   vertical-align: top;
+   padding-left: 38px;
+   padding-right: 38px;
+}
+.title-5{
+   font-family: "Inter",sans-serif;
+   font-weight: 400;
+   font-size: 28px;
+   color: #d06b00;
+   line-height: auto;
+   padding-bottom: 13px;
+   max-width: 186px;
+   max-height: 34px;
+}
+.title-6{
+   font-family: "DM+Serif+Text";
+   font-weight: 400;
+   font-size: 59px;
+   line-height: 1.46;
+   color: #0e333d;
+   max-width: 526px;
+   max-height: 172px;
+   padding-bottom: 25px;
+}
+.img-block{
+   max-width: 566px;
+   display: inline-block;
+}
+.img-one{
+   margin-right: 17px;
+}
+.img-one,
+.img-to {
+   max-width: 273px;
+   max-height: 518px;
+}
+.text-bloc{
+   font-family: "Inter",sans-serif;
+   font-weight: 400;
+   font-size: 20px;
+   line-height: 1.8;
+   color: #474747;
+}
+
